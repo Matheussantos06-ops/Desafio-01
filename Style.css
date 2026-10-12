@@ -146,6 +146,8 @@ body {
     width: 70px;
     height: 70px;        
     object-fit: contain;
+    border: 1px solid black;
+    border-radius: 12px;
     display:block;  
     margin-bottom: 6px;
 }
