@@ -150,9 +150,10 @@ body {
     margin-bottom: 6px;
 }
 
-.card-link {
-    text-decoration: underline;
+.card-link,
+    .card-link:visited {
     color: black;
+    text-decoration: underline;
     font-weight: bold;
     font-size: 14px;
-}
+    }
